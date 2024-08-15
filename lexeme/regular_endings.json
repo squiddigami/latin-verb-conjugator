@@ -1,0 +1,493 @@
+{
+    "1":
+    {
+        "1":
+        {
+            "1":
+            {
+                "1": ["o", "as", "at", "amus", "atis", "ant"],
+                "2": ["abam", "abas", "abat", "abamus", "abatis", "abant"],
+                "3": ["abo", "abis", "abit", "abimus", "abitis", "abunt"],
+                "4": ["i", "isti", "it", "imus", "istis", "erunt"],
+                "5": ["eram", "eras", "erat", "eramus", "eratis", "erant"],
+                "6": ["ero", "eris", "erit", "erimus", "eritis", "erint"]
+            },
+            "2":
+            {
+                "1": ["or", "aris", "atur", "amur", "amini", "antur"],
+                "2": ["abar", "abaris", "abatur", "abamur", "abamini", "abantur"],
+                "3": ["abor", "aberis", "abitur", "abimur", "abimini", "abuntur"],
+                "4": ["us sum", "us es", "us est", "i sumus", "i estis", "i sunt"],
+                "5": ["us eram", "us eras", "us erat", "i eramus", "i eratis", "i erant"],
+                "6": ["us ero", "us eris", " us erit", "i erimus", "i eritis", "i erunt"]
+            }
+        },
+        "2":
+        {
+            "1":
+            {
+                "1": ["em", "es", "et", "emus", "etis", "ent"],
+                "2": ["arem", "ares", "aret", "aremus", "aretis", "arent"],
+                "4": ["erim", "eris", "erit", "erimus", "eritis", "erint"],
+                "5": ["issem", "isses", "isset", "issemus", "issetis", "issent"]
+            },
+            "2":
+            {
+                "1": ["er", "eris", "etur", "emur", "emini", "entur"],
+                "2": ["arer", "areris", "aretur", "aremur", "aremini", "arentur"],
+                "4": ["us sim", "us sis", "us sit", "i simus", "i sitis", "i sint"],
+                "5": ["us essem", "us esses", "us esset", "i essemus", "i essetis", "i essent"]
+            }
+        },
+        "3":
+        {
+            "1":
+            {
+                "1": [null, "a", null, null, "ate", null],
+                "3": [null, "ato", null, null, "atote", null]
+            },
+            "2":
+            {
+                "1": [null, "are", null, null, "amini", null],
+                "3": [null, "ator", null, null, null, null]
+            }
+        },
+        "4":
+        {
+            "1":
+            {
+                "1": "are",
+                "3": "urus esse",
+                "4": "isse"
+            },
+            "2":
+            {
+                "1": "ari",
+                "3": "um iri",
+                "4": "us esse"
+            }
+        },
+        "5":
+        {
+            "1":
+            {
+                "1": "ans",
+                "3": "urus",
+                "4": null
+            },
+            "2":
+            {
+                "1": null,
+                "3": "andus",
+                "4": "us"
+            }
+        },
+        "6":
+        {
+            "2": "andi",
+            "3": "ando",
+            "4": "andum",
+            "5": "ando"
+        },
+        "7":
+        {
+            "2": null,
+            "3": null,
+            "4": "um",
+            "5": "u"
+        }
+    },
+    "2":
+    {
+        "1":
+        {
+            "1":
+            {
+                "1": ["eo", "es", "et", "emus", "etis", "ent"],
+                "2": ["ebam", "ebas", "ebat", "ebamus", "ebatis", "ebant"],
+                "3": ["ebo", "ebis", "ebit", "ebimus", "ebitis", "ebunt"],
+                "4": ["i", "isti", "it", "imus", "istis", "erunt"],
+                "5": ["eram", "eras", "erat", "eramus", "eratis", "erant"],
+                "6": ["ero", "eris", "erit", "erimus", "eritis", "erint"]
+            },
+            "2":
+            {
+                "1": ["eor", "eris", "etur", "emur", "emini", "entur"],
+                "2": ["ebar", "ebaris", "ebatur", "ebamur", "ebamini", "ebantur"],
+                "3": ["ebor", "eberis", "ebitur", "ebimur", "ebimini", "ebuntur"],
+                "4": ["us sum", "us es", "us est", "i sumus", "i estis", "i sunt"],
+                "5": ["us eram", "us eras", "us erat", "i eramus", "i eratis", "i erant"],
+                "6": ["us ero", "us eris", "us erit", "i erimus", "i eritis", "i erunt"]
+            }
+        },
+        "2":
+        {
+            "1":
+            {
+                "1": ["eam", "eas", "eat", "eamus", "eatis", "eant"],
+                "2": ["erem", "eres", "eret", "eremus", "eretis", "erent"],
+                "4": ["erim", "eris", "erit", "erimus", "eritis", "erint"],
+                "5": ["issem", "isses", "isset", "issemus", "issetis", "issent"]
+            },
+            "2":
+            {
+                "1": ["ear", "earis", "eatur", "eamur", "eamini", "eantur"],
+                "2": ["erer", "ereris", "eretur", "eremur", "eremini", "erentur"],
+                "4": ["us sim", "us sis", "us sit", "i simus", "i sitis", "i sint"],
+                "5": ["us essem", "us esses", "us esset", "i essemus", "i essetis", "i essent"]
+            }
+        },
+        "3":
+        {
+            "1":
+            {
+                "1": [null, "e", null, null, "ete", null],
+                "3": [null, "eto", null, null, "etote", null]
+            },
+            "2":
+            {
+                "1": [null, "ere", null, null, "emini", null],
+                "3": [null, "etor", null, null, null, null]
+            }
+        },
+        "4":
+        {
+            "1":
+            {
+                "1": "ere",
+                "3": "urus esse",
+                "4": "isse"
+            },
+            "2":
+            {
+                "1": "eri",
+                "3": "um iri",
+                "4": "us esse"
+            }
+        },
+        "5":
+        {
+            "1":
+            {
+                "1": "ens",
+                "3": "urus",
+                "4": null
+            },
+            "2":
+            {
+                "1": null,
+                "3": "endus",
+                "4": "us"
+            }
+        },
+        "6":
+        {
+            "2": "endi",
+            "3": "endo",
+            "4": "endum",
+            "5": "endo"
+        },
+        "7":
+        {
+            "2": null,
+            "3": null,
+            "4": "um",
+            "5": "u"
+        }
+    },
+    "3":
+    {
+        "1":
+        {
+            "1":
+            {
+                "1": ["o", "is", "it", "imus", "itis", "unt"],
+                "2": ["ebam", "ebas", "ebat", "ebamus", "ebatis", "ebant"],
+                "3": ["am", "es", "et", "emus", "etis", "ent"],
+                "4": ["i", "isti", "it", "imus", "istis", "erunt"],
+                "5": ["eram", "eras", "erat", "eramus", "eratis", "erant"],
+                "6": ["ero", "eris", "erit", "erimus", "eritis", "erint"]
+            },
+            "2":
+            {
+                "1": ["or", "eris", "itur", "imur", "imini", "untur"],
+                "2": ["ebar", "ebaris", "ebatur", "ebamur", "ebamini", "ebantur"],
+                "3": ["ar", "eris", "etur", "emur", "emini", "entur"],
+                "4": ["us sum", "us es", "us est", "i sumus", "i estis", "i sunt"],
+                "5": ["us eram", "us eras", "us erat", "i eramus", "i eratis", "i erant"],
+                "6": ["us ero", "us eris", " us erit", "i erimus", "i eritis", "i erunt"]
+            }
+        },
+        "2":
+        {
+            "1":
+            {
+                "1": ["am", "as", "at", "amus", "atis", "ant"],
+                "2": ["erem", "eres", "eret", "eremus", "eretis", "erent"],
+                "4": ["erim", "eris", "erit", "erimus", "eritis", "erint"],
+                "5": ["issem", "isses", "isset", "issemus", "issetis", "issent"]
+            },
+            "2":
+            {
+                "1": ["ar", "aris", "atur", "amur", "amini", "antur"],
+                "2": ["erer", "ereris", "eretur", "eremur", "eremini", "erentur"],
+                "4": ["us sim", "us sis", "us sit", "i simus", "i sitis", "i sint"],
+                "5": ["us essem", "us esses", "us esset", "i essemus", "i essetis", "i essent"]
+            }
+        },
+        "3":
+        {
+            "1":
+            {
+                "1": [null, "e", null, null, "ite", null],
+                "3": [null, "ito", null, null, "itote", null]
+            },
+            "2":
+            {
+                "1": [null, "ere", null, null, "imini", null],
+                "3": [null, "itor", null, null, null, null]
+            }
+        },
+        "4":
+        {
+            "1":
+            {
+                "1": "ere",
+                "3": "urus esse",
+                "4": "isse"
+            },
+            "2":
+            {
+                "1": "i",
+                "3": "um iri",
+                "4": "us esse"
+            }
+        },
+        "5":
+        {
+            "1":
+            {
+                "1": "ens",
+                "3": "urus",
+                "4": null
+            },
+            "2":
+            {
+                "1": null,
+                "3": "endus",
+                "4": "us"
+            }
+        },
+        "6":
+        {
+            "2": "endi",
+            "3": "endo",
+            "4": "endum",
+            "5": "endo"
+        },
+        "7":
+        {
+            "2": null,
+            "3": null,
+            "4": "um",
+            "5": "u"
+        }
+    },
+    "4":
+    {
+        "1":
+        {
+            "1":
+            {
+                "1": ["io", "is", "it", "imus", "itis", "iunt"],
+                "2": ["iebam", "iebas", "iebat", "iebamus", "iebatis", "iebant"],
+                "3": ["iam", "ies", "iet", "iemus", "ietis", "ient"],
+                "4": ["i", "isti", "it", "imus", "istis", "erunt"],
+                "5": ["eram", "eras", "erat", "eramus", "eratis", "erant"],
+                "6": ["ero", "eris", "erit", "erimus", "eritis", "erint"]
+            },
+            "2":
+            {
+                "1": ["ior", "iris", "itur", "imur", "imini", "iuntur"],
+                "2": ["iebar", "iebaris", "iebatur", "iebamur", "iebamini", "iebantur"],
+                "3": ["iar", "ieris", "ietur", "iemur", "iemini", "ientur"],
+                "4": ["us sum", "us es", "us est", "i sumus", "i estis", "i sunt"],
+                "5": ["us eram", "us eras", "us erat", "i eramus", "i eratis", "i erant"],
+                "6": ["us ero", "us eris", " us erit", "i erimus", "i eritis", "i erunt"]
+            }
+        },
+        "2":
+        {
+            "1":
+            {
+                "1": ["iam", "ias", "iat", "iamus", "iatis", "iant"],
+                "2": ["irem", "ires", "iret", "iremus", "iretis", "irent"],
+                "4": ["erim", "eris", "erit", "erimus", "eritis", "erint"],
+                "5": ["issem", "isses", "isset", "issemus", "issetis", "issent"]
+            },
+            "2":
+            {
+                "1": ["iar", "iaris", "iatur", "iamur", "iamini", "iantur"],
+                "2": ["irer", "ireris", "iretur", "iremur", "iremini", "irentur"],
+                "4": ["us sim", "us sis", "us sit", "i simus", "i sitis", "i sint"],
+                "5": ["us essem", "us esses", "us esset", "i essemus", "i essetis", "i essent"]
+            }
+        },
+        "3":
+        {
+            "1":
+            {
+                "1": [null, "i", null, null, "ite", null],
+                "3": [null, "ito", null, null, "itote", null]
+            },
+            "2":
+            {
+                "1": [null, "ire", null, null, "imini", null],
+                "3": [null, "itor", null, null, null, null]
+            }
+        },
+        "4":
+        {
+            "1":
+            {
+                "1": "ire",
+                "3": "urus esse",
+                "4": "isse"
+            },
+            "2":
+            {
+                "1": "iri",
+                "3": "um iri",
+                "4": "us esse"
+            }
+        },
+        "5":
+        {
+            "1":
+            {
+                "1": "iens",
+                "3": "urus",
+                "4": null
+            },
+            "2":
+            {
+                "1": null,
+                "3": "iendus",
+                "4": "us"
+            }
+        },
+        "6":
+        {
+            "2": "iendi",
+            "3": "iendo",
+            "4": "iendum",
+            "5": "iendo"
+        },
+        "7":
+        {
+            "2": null,
+            "3": null,
+            "4": "um",
+            "5": "u"
+        }
+    },
+    "6":
+    {
+        "1":
+        {
+            "1":
+            {
+                "1": ["io", "is", "it", "imus", "itis", "iunt"],
+                "2": ["iebam", "iebas", "iebat", "iebamus", "iebatis", "iebant"],
+                "3": ["iam", "ies", "iet", "iemus", "ietis", "ient"],
+                "4": ["i", "isti", "it", "imus", "istis", "erunt"],
+                "5": ["eram", "eras", "erat", "eramus", "eratis", "erant"],
+                "6": ["ero", "eris", "erit", "erimus", "eritis", "erint"]
+            },
+            "2":
+            {
+                "1": ["ior", "eris", "itur", "imur", "imini", "iuntur"],
+                "2": ["iebar", "iebaris", "iebatur", "iebamur", "iebamini", "iebantur"],
+                "3": ["iar", "ieris", "ietur", "iemur", "iemini", "ientur"],
+                "4": ["us sum", "us es", "us est", "i sumus", "i estis", "i sunt"],
+                "5": ["us eram", "us eras", "us erat", "i eramus", "i eratis", "i erant"],
+                "6": ["us ero", "us eris", " us erit", "i erimus", "i eritis", "i erunt"]
+            }
+        },
+        "2":
+        {
+            "1":
+            {
+                "1": ["iam", "ias", "iat", "iamus", "iatis", "iant"],
+                "2": ["erem", "eres", "eret", "eremus", "eretis", "erent"],
+                "4": ["erim", "eris", "erit", "erimus", "eritis", "erint"],
+                "5": ["issem", "isses", "isset", "issemus", "issetis", "issent"]
+            },
+            "2":
+            {
+                "1": ["iar", "iaris", "iatur", "iamur", "iamini", "iantur"],
+                "2": ["erer", "ereris", "eretur", "eremur", "eremini", "erentur"],
+                "4": ["us sim", "us sis", "us sit", "i simus", "i sitis", "i sint"],
+                "5": ["us essem", "us esses", "us esset", "i essemus", "i essetis", "i essent"]
+            }
+        },
+        "3":
+        {
+            "1":
+            {
+                "1": [null, "e", null, null, "ite", null],
+                "3": [null, "ito", null, null, "itote", null]
+            },
+            "2":
+            {
+                "1": [null, "ere", null, null, "imini", null],
+                "3": [null, "itor", null, null, null, null]
+            }
+        },
+        "4":
+        {
+            "1":
+            {
+                "1": "ere",
+                "3": "urus esse",
+                "4": "isse"
+            },
+            "2":
+            {
+                "1": "i",
+                "3": "um iri",
+                "4": "us esse"
+            }
+        },
+        "5":
+        {
+            "1":
+            {
+                "1": "ens",
+                "3": "urus",
+                "4": null
+            },
+            "2":
+            {
+                "1": null,
+                "3": "iendus",
+                "4": "us"
+            }
+        },
+        "6":
+        {
+            "2": "iendi",
+            "3": "iendo",
+            "4": "iendum",
+            "5": "iendo"
+        },
+        "7":
+        {
+            "2": null,
+            "3": null,
+            "4": "um",
+            "5": "u"
+        }
+    }
+
+}

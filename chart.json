@@ -1,0 +1,64 @@
+{
+    "finite_column_names":
+    [
+        ["singular", "first"],
+        ["singular", "second"],
+        ["singular", "third"],
+        ["plural", "first"],
+        ["plural", "second"],
+        ["plural", "third"]
+    ],
+    "finite_index_names":
+    [
+        ["indicative", "active", "present"],
+        ["indicative", "active", "imperfect"],
+        ["indicative", "active", "future"],
+        ["indicative", "active", "perfect"],
+        ["indicative", "active", "pluperfect"],
+        ["indicative", "active", "future perfect"],
+        ["indicative", "passive", "present"],
+        ["indicative", "passive", "imperfect"],
+        ["indicative", "passive", "future"],
+        ["indicative", "passive", "perfect"],
+        ["indicative", "passive", "pluperfect"],
+        ["indicative", "passive", "future perfect"],
+        ["subjunctive", "active", "present"],
+        ["subjunctive", "active", "imperfect"],
+        ["subjunctive", "active", "perfect"],
+        ["subjunctive", "active", "pluperfect"],
+        ["subjunctive", "passive", "present"],
+        ["subjunctive", "passive", "imperfect"],
+        ["subjunctive", "passive", "perfect"],
+        ["subjunctive", "passive", "pluperfect"],
+        ["imperative", "active", "present"],
+        ["imperative", "active", "future"],
+        ["imperative", "passive", "present"],
+        ["imperative", "passive", "future"]
+    ],
+    "nonfinite_column_names":
+    [
+        ["active", "present"],
+        ["active", "future"],
+        ["active", "perfect"],
+        ["passive", "present"],
+        ["passive", "future"],
+        ["passive", "perfect"]
+    ],
+    "nonfinite_index_names":
+    [
+        ["infinitives"],
+        ["participles"]
+    ],
+    "verbalnoun_column_names":
+    [
+        ["genitive"],
+        ["dative"],
+        ["accusative"],
+        ["ablative"]
+    ],
+    "verbalnoun_index_names":
+    [
+        ["gerund"],
+        ["supine"]
+    ]
+}
